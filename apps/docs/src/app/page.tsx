@@ -1,4 +1,4 @@
-import { Button } from "@acme/core";
+import { Button } from "@synthui/core";
 
 export default function Page() {
   return (
@@ -7,4 +7,4 @@ export default function Page() {
       <Button>Boop</Button>
     </>
   );
-}
+} 

@@ -20,7 +20,7 @@ This Turborepo includes the following:
 - `@synthui/core`: core React components
 - `@synthui/utils`: shared React utilities
 - `@synthui/tsconfig`: shared `tsconfig.json`s used throughout the monorepo
-- `eslint-config-synthui`: ESLint preset
+- `@synthui/eslint-config`: ESLint preset
 
 Each package and app is 100% [TypeScript](https://www.typescriptlang.org/).
 

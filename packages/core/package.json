@@ -18,7 +18,7 @@
   "devDependencies": {
     "@synthui/tsconfig": "*",
     "eslint": "^7.32.0",
-    "eslint-config-synthui": "*",
+    "@synthui/eslint-config": "*",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "react": "^17.0.2",
